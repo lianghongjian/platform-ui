@@ -27,7 +27,7 @@
     <version>15</version>
     <relativePath />
   </parent>
-  <groupId>org.exoplatform.platform-ui</groupId>
+  <groupId>qys-theme</groupId>
   <artifactId>platform-ui</artifactId>
   <version>4.3.1</version>
   <packaging>pom</packaging>
@@ -44,7 +44,7 @@
     <url>https://github.com/exoplatform/platform-ui</url>
   </scm>
   <properties>
-    <platform-ui-skin-final-name>eXoSkin</platform-ui-skin-final-name>
+    <platform-ui-skin-final-name>qys-theme</platform-ui-skin-final-name>
     <!-- **************************************** -->
     <!-- Jira Settings                            -->
     <!-- **************************************** -->

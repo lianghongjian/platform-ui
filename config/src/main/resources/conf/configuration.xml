@@ -46,7 +46,7 @@
           <field name="dependencies">
             <collection type="java.util.ArrayList">
               <value>
-                <string>eXoSkin</string>
+                <string>qys-theme</string>
               </value>
             </collection>
           </field>

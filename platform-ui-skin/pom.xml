@@ -23,7 +23,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>platform-ui</artifactId>
-        <groupId>org.exoplatform.platform-ui</groupId>
+        <groupId>qys-theme</groupId>
         <version>4.3.1</version>
     </parent>
 
